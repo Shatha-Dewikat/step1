@@ -194,7 +194,6 @@ Buy it. Love it. Live it.
     display: "flex",
     justifyContent: "space-between",
     alignItems: "center",
-    marginBottom: "20px",
     marginTop: "40px",
     marginBottom:"40px",
   }}

@@ -3,9 +3,9 @@ import Register from "./pages/register/Register";
 import MainLayout from "./layout/MainLayout";
 import Login from "./pages/login/Login";
 import Forget from "./pages/forget/Forget";
-import RePass from "./pages/RePass/RePass";
 import Password from "./pages/password/Password";
 import Home from "./pages/home/Home";
+import RePass from './pages/rePass/RePass';
 
 
 
